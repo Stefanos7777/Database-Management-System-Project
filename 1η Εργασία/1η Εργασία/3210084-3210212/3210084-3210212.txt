@@ -1,0 +1,6 @@
+ΑΙΚΑΤΕΡΙΝΗ ΚΟΡΡΕ - 3210084
+ΣΤΕΦΑΝΟΣ ΦΡΑΓΚΟΥΛΗΣ - 3210212
+Endpoint: mysqlserver116.database.windows.net
+Database: mysqlserver116
+Username: azureuser
+Password: #Kat2708
